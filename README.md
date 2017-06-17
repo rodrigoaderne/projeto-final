@@ -4,7 +4,7 @@
   Nossso projeto final trata-se de um dispositivo que reinicia o roteador de sua casa via bluetooth através de um aplicativo de celular. Criamos um aplicativo android que se comunica via bluetooth com o arduino, o qual usando um relé, desliga o roteador por 10s e o religa em seguida.
   
   Projeto do software android:
-  https://ai2.appinventor.mit.edu/?galleryId=5271032427184128
+ ai2.appinventor.mit.edu/?galleryId=5271032427184128
   
   Video Youtube:
   https://youtu.be/5ZzsZGgueeU
